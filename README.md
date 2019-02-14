@@ -8,6 +8,8 @@ Example :  `python md5cracker.py 5f4dcc3b5aa765d61d8327deb882cf99`
 
 NB: You can delete  `print("{}\n{}\n{}".format(word, digest, passwordHash))` in the code
 
+    wordlist.txt is just an example of wordlist
+
 # HAVE FUN WITH THIS LITTLE PROGRAM
 
 Facebook : Tobi Sama
