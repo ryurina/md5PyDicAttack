@@ -1,6 +1,6 @@
 # md5PyDicAttack
 
-Requirement : Python 3 
+Done with Python 3 
 
 Command :  `python md5cracker.py [hash_md5]`
 
